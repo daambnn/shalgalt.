@@ -1,0 +1,174 @@
+
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+     margin: 0;
+     font-size: 16px;
+     /* background: black; */
+}
+
+ul li{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+
+}
+.container{
+    width: 1280px;
+    margin: 0 auto;
+}
+
+/* header{
+    
+    display: flex;
+    justify-content: space-between;
+} */
+
+.background-img{
+    position: relative;
+
+}
+
+.nav {
+    position: absolute;
+    top: 20px;
+    right: -250px;
+}
+.nav a{
+    padding: 0 10px;
+}
+.samsung-logo{
+    position: absolute;
+    top: 25px;
+    right: 1200px;
+}
+.logo-3{
+    position: absolute;
+    top: 5px;
+    right: -300px;
+}
+.nav a:hover{
+    color: gray;
+}
+.logo-sum{
+    position: absolute;
+    top: 1000px;
+    right: -300px;
+}
+
+.navhead h1{
+    position: absolute;
+    top: 440px;
+    right: 750px;
+    font-size: 70px;
+}
+
+.background2-imgs{
+    display: flex;
+    justify-content: space-between;
+}
+.img-left{
+    position: relative;
+}
+.img-left h1{
+    position: absolute;
+    top: 10px;
+    left: 40px;
+    color: white;
+}
+
+.img-right{
+    position: relative;
+}
+
+.img-right h1{
+    color: white;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    margin: 10px;
+}
+
+.background3-imgs{
+    display: flex;
+    justify-content: space-between;
+    height: 500px;
+    
+}
+
+.phone-1 h2{
+    margin: 0 130px;
+}
+
+.phone-2 h2{
+    margin: 0 130px;
+    background: rgb(88, 88, 209);
+    
+}
+.phone-2{ background:rgb(88, 88, 209);}
+.phone-1{background: rgb(232, 230, 230);}
+.phone-3{background: rgb(232, 230, 230);}
+.phone-4{background: rgb(232, 230, 230);}
+
+.phone-3 h2{
+    margin: 0 130px;
+    
+}
+.phone-4 h2{
+    margin: 0 130px;
+    
+}
+
+
+.background4-imgs{
+    display: flex;
+    justify-content: space-between;
+}
+
+.time-1{position: relative;}
+.time-2{position: relative;}
+.time-3{position: relative;}
+.time-4{position: relative;}
+
+
+.time-1 h2{position: absolute; bottom: 50px;}
+.time-2 h2{position: absolute; bottom: 50px;}
+.time-3 h2{position: absolute; bottom: 50px;}
+.time-4 h2{position: absolute; bottom: 50px;}
+
+.footer-icons{color: #999999; }
+.footer-icons i{margin-right: 20px;}
+.footer-icons a{margin-right: 20px;}
+.footer-icons i:hover{color: orange;}
+
+.footer-all {
+    margin: 50px 20px 10px 0;
+}
+.footer-all a{
+    margin-left: 30px;
+    color: #999999;
+}
+.footer-foot a{
+    padding: 0 10px 0 10px;
+    color: #999999;
+    border-right:  1px solid #999999;
+}
+.footer-foot{
+    margin-left: 140px;
+    
+}
+
+.phone-1{position: relative;}
+.phone-2{position: relative;}
+.phone-3{position: relative;}
+.phone-4{position: relative;}
+
+.phone-4 h2{position: absolute; bottom: 50px;}
+.phone-3 h2{position: absolute; bottom: 50px;}
+.phone-2 h2{position: absolute; bottom: 50px;}
+.phone-1 h2{position: absolute; bottom: 50px;}
